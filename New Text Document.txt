@@ -1,0 +1,12 @@
+
+give permission to ec2 
+sudo yum -y install httpd
+
+sudo chmod -R 777 /var/www/html/
+
+//copy all build files from you system to /var/www/html
+
+sudo service httpd start  
+
+
+

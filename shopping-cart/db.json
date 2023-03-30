@@ -1,0 +1,42 @@
+{
+  "signupUsers": [
+    {
+      "fullname": "Ritik Chauhan",
+      "email": "ritikchauhan359@gmail.com",
+      "password": "12345",
+      "mobile": 8868070416,
+      "id": 1
+    },
+    {
+      "fullname": "satyam",
+      "email": "satyam.verma@gmail.com",
+      "password": "12345",
+      "mobile": 1328917389,
+      "id": 2
+    },
+    {
+      "fullname": "hello",
+      "email": "hello@gmail.com",
+      "password": "123h",
+      "mobile": 123242,
+      "id": 3
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
